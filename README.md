@@ -1,2 +1,2 @@
 # nichakamon
-Nichakamon Learning
+Nichakamon Learning Center
